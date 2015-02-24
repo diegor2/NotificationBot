@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notification Bot</string>
+    <string name="service_name">Notification Bot Service</string>
+</resources>
